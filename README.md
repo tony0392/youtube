@@ -1,9 +1,9 @@
 <h1 align="center"> YouTube_to_m3u </h1>
 
-[![M3U generator for YouTube](https://github.com/Nuttypro69/YouTube_to_m3u/blob/main/assets/Info.m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/Nuttypro69/YouTube_to_m3u-/blob/main/.github/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://github.com/tony0392/YouTube/blob/main/assets/Info.m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/tony0392/YouTube/blob/main/.github/workflows/m3u_Generator.yml)
 
 ``` bash
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/youtube.m3u
+https://raw.githubusercontent.com/tony0392/YouTube/main/youtube.m3u
 ```
 
 Funciona mejor con: [Perfect Player IPTV](http://niklabs.com/) ,
@@ -16,13 +16,13 @@ Enlaces M3U actualizados de YouTube Live Canals, **actualizado -automáticamente
 
 
 ### Uso 
-Pegue esta URL: 'https://raw.githubusercontent.com/nuttypro69/youtube_to_m3u/main/youtube.m3u' a cualquier jugador que admite las listas de reproducción de M3U
+Pegue esta URL: 'https://raw.githubusercontent.com/tony0392/YouTube/main/youtube.m3u' a cualquier jugador que admite las listas de reproducción de M3U
 
 ### Ejecute la herramienta en su máquina local
 
 ``` bash
-git clone https://github.com/nuttypro69/youtube_to_m3u.git
-cd YouTube_to_m3u
+git clone https://github.com/tony0392/YouTube.git
+cd YouTube
 chmod +x autorun.sh
 ./autorun.sh
 ```
