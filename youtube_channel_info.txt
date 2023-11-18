@@ -1,8 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-LOOPS | Chile | https://yt3.ggpht.com/oBG_RhO7zYUvD5myW-MBSp0l1HyrNg9fDNNFneSl9bJh--cPDJ_b--ihfjZVr-9JNen8Xt6IYmA=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UC_WdFDFWB6l8mrUVuKs7gOg/Live
 凤凰资讯 | 港澳台 | https://epg.112114.xyz/logo/凤凰资讯.png |
 https://www.youtube.com/watch?v=bYBjjtgKUnM
 寰宇新闻 | 港澳台 | https://epg.112114.xyz/logo/寰宇新闻.png |
