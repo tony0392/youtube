@@ -22,13 +22,11 @@ jobs:
 
     - name: Update
       run: |
-
-
-
+        
         # 整合源
         rm -f IPTV.m3u && touch IPTV.m3u
-        cat henan.m3u >> IPTV.m3u
         cat youtube.m3u >> IPTV.m3u
+        cat henan.m3u >> IPTV.m3u
         sed -i '/#EXTM3U/d' IPTV.m3u
         sed -i '1i #EXTM3U' IPTV.m3u
         sed -i '/^\s*$/d' IPTV.m3u
@@ -37,6 +35,15 @@ jobs:
         rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
         echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
 
+    - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "${{ steps.date.outputs.date }}"
+        git branch -D Files
+        git branch -m Files
 
     - name: Push
       run: git push -f origin Files
