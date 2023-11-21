@@ -147,7 +147,7 @@ http://r.jdshipin.com/0Rp07
 http://211.137.115.109:80/gitv_live/G_FENGHUANGZHONGWEN/G_FENGHUANGZHONGWEN.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星空卫视
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
 http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
@@ -157,11 +157,11 @@ http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&c
 http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
 http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iNews TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",iNews TV
 http://198.16.100.90:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
 #EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",Momo TV
 http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳亚卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="港澳台",八大第一
 http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
