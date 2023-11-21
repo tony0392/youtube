@@ -1,0 +1,105 @@
+民視台灣台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/master.m3u8?token=8XycAL3KUmkKzWrXCp2EPA&expires=1494745196
+    民視,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/master.m3u8?token=4DsfpL7FyF_XTuBst5fXCQ&expires=1494745182
+    台灣交通台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/master.m3u8?token=LJ9lh2urO3mCIVjpfIx3Fg&expires=1494745183
+    民視綜藝台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv004/master.m3u8?token=im0UcLDi1ot5kNJN32p-2w&expires=1494745198
+    大愛電視,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv007/master.m3u8?token=qssV7y0VEF6zcDxUrBpBFw&expires=1494745188
+    人間衛視,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv008/master.m3u8?token=cpLIno-R5FVaX6BEUdZ8lg&expires=1494745203
+    中天新聞台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv009/master.m3u8?token=-yZI3fV46Uch3Ytdsv3uiQ&expires=1494745190
+    影迷數位電影台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv011/master.m3u8?token=ls-ow3tDuw6vwh-uCyVY4A&expires=1494745190
+    視納華仁紀實頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv013/master.m3u8?token=bGCTGNI4WQykZhfghT_4uQ&expires=1494745205
+    時尚運動X,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv014/master.m3u8?token=DI7MpRq7OADpmUujaWQtNg&expires=1494745191
+    Fashion one,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv015/master.m3u8?token=e2h3V2XDZ_d4T7yZb-x4rQ&expires=1494745192
+    韓國娛樂台 KMTV,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv016/master.m3u8?token=08KUZJTqxShpGmxnVcYrVA&expires=1494745193
+    日舞電影台 AMC,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv017/master.m3u8?token=XRpVceBaP4MwJg9RE8rM-A&expires=1494745193
+    日舞電影台AMC,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv017/master.m3u8?token=6PFKJzBun-OqImqaIrRYfA&expires=1494745194
+    達文西頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv018/master.m3u8?token=v7jh0JXG57qnBLSkbsHdEQ&expires=1494745209
+    東森財經新聞,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv019/master.m3u8?token=c-tDs-j7HdlmBd8-2WsMIQ&expires=1494745195
+    東森財經新聞台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv019/master.m3u8?token=nVzZ_Du2VGsG5j8yTE2txg&expires=1494745196
+    東森亞洲衛視,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv020/master.m3u8?token=uloD6Y8OB7cIx3AeUb07zg&expires=1494745197
+    東森亞洲幼幼台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv021/master.m3u8?token=xO0Z08Xh94WpOW8y9cL_hA&expires=1494745198
+    東森亞洲新聞台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv022/master.m3u8?token=m21cEN8tO7v8Has9M4FTZg&expires=1494745199
+    Comedy Central 爆笑頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv024/master.m3u8?token=vvfW596Speoqg-XeeQ3QLQ&expires=1494745199
+    MTV Live HD 音樂頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv025/master.m3u8?token=7lNWKgkxTe8mcCku7a7zvA&expires=1494745214
+    History 歷史頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv026/master.m3u8?token=Nju6x8XzQwdsNxVXFXZ6Bg&expires=1494745200
+    CI 罪案偵查頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv027/master.m3u8?token=s88Zcb4-gm_SC7-DQm4sAA&expires=1494745215
+    CI罪案偵查頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv027/master.m3u8?token=fLyaXa8CtV7X40QI8l9a4Q&expires=1494745203
+    H2頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv028/master.m3u8?token=pZPn6S4uh276zr8NHd9SVQ&expires=1494745217
+    Lifetime 娛樂頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv029/master.m3u8?token=vSSAheIHNdVX9C4CKuV7OA&expires=1494745204
+    CNBC Asia 財經台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv030/master.m3u8?token=YZRDsS3IdCQ_FlmNUtd1sg&expires=1494745221
+    fyi 生活頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv031/master.m3u8?token=EvcMlXOgJIaHS0hLTcDepw&expires=1494745222
+    Nick Jr. 兒童頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv032/master.m3u8?token=BE-N8QZLusZg_sRkOT4dFA&expires=1494745209
+    Z Living 健康頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv033/master.m3u8?token=H00hqWIqZ3szc0-Bj_ohHA&expires=1494745224
+    E Entertainment,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv034/master.m3u8?token=CczEz0QlcIbqYMYg5iRY5A&expires=1494745225
+    鳳梨直擊台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv035/master.m3u8?token=6X1GUd6evShCDKao15TxSg&expires=1494745211
+    愛爾達足球台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv036/master.m3u8?token=6ET9nDY-KfiVHdXMSiIIgA&expires=1494745226
+    香蕉直擊台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/master.m3u8?token=nWtwbJy-RMhOaZVBdJ5VLw&expires=1494745226
+    中視,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv040/master.m3u8?token=6jiE8H3TyCjg8wqcEfEZJg&expires=1494745214
+    華視,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv041/master.m3u8?token=extU0RBNU7laeKxv-Qz0Ww&expires=1494745215
+    公視戲劇,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv042/master.m3u8?token=p_SLMYHiSK3lHJOfHIhObw&expires=1494745216
+    靖天卡通台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv044/master.m3u8?token=6m2THo6XJbd5nf7fLkNmnw&expires=1494745216
+    靖天綜合台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv046/master.m3u8?token=x_i2okqA2WOrzGB-GP6Y0w&expires=1494745217
+    靖天日本台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv047/master.m3u8?token=1JdCYl6AyLQ0WurbbauzQA&expires=1494745217
+    采昌影劇台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv049/master.m3u8?token=kmwxo6ZEHrxtZ-9Po62XKg&expires=1494745218
+    華視新聞,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv052/master.m3u8?token=ZQCwbLs6eL0xVNF5Z8bp6Q&expires=1494745218
+    靖天映畫,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv055/master.m3u8?token=UBkN_0Ow1-cHtgalCPWVGQ&expires=1494745233
+    靖洋卡通Nice Bingo,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv057/master.m3u8?token=Krge8vZp_pjRs9BZ6TC0SA&expires=1494745220
+    CLASSICA 古典樂,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv059/master.m3u8?token=Elre5Mlcf9uytl1v2VjF7g&expires=1494745234
+    靖天電影台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv061/master.m3u8?token=JrMswWKlFK43K_8KG0ib2w&expires=1494745235
+    靖天育樂台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv062/master.m3u8?token=l_Sp1DwVV6Y0L0HZhBkmAg&expires=1494745235
+    KLT-靖天國際台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv063/master.m3u8?token=GfYLMjHhfVM3Gv6zpvtnbQ&expires=1494745222
+    靖天資訊台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv065/master.m3u8?token=9UuqpuPszRURUODV4in9Yw&expires=1494745238
+    愛爾達綜合台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv069/master.m3u8?token=C4IBecjBCg69BGLp4lrmkA&expires=1494745224
+    愛爾達娛樂台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv070/master.m3u8?token=dtYpJrQCbB5GpxiP4IAulQ&expires=1494745226
+    愛爾達影劇台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv071/master.m3u8?token=YYK38L9jZrN5e3TxC_iZXA&expires=1494745227
+    中視新聞,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv074/master.m3u8?token=3Pi6OJUlEl2mGyZuIPzSNg&expires=1494745242
+    愛爾達體育台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv075/master.m3u8?token=TJxdN8fUdL66zEqwx5aJDA&expires=1494745228
+    愛爾達育樂台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv076/master.m3u8?token=UcD736FReemnISNi7BX0xg&expires=1494745245
+    TRACE Sport Stars,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv077/master.m3u8?token=Eo1tuaO2p755Qh-XKtr35w&expires=1494745245
+    Outdoor Channel,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv078/master.m3u8?token=2qcf_qyLAJtSKTfFRGHh3w&expires=1494745246
+    Travel Channel,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv079/master.m3u8?token=NDawLDRi_KfJDCpMDTjC8g&expires=1494745232
+    TRACE Urban,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv082/master.m3u8?token=QkmpEVfBvgPz9cbrGveDdw&expires=1494745234
+    Mezzo Live HD,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv083/master.m3u8?token=v4oFlFurcDWUTgs_CEfOaQ&expires=1494745237
+    院會頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv089/master.m3u8?token=LE-PWoKrPT_iCcaFwxdlxw&expires=1494745237
+    內政頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv090/master.m3u8?token=vugDjKcI4JN-zFLhp5DtRQ&expires=1494745252
+    外交及國防頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv091/master.m3u8?token=-rXlC5WT9ZXBwPVQFMyXsw&expires=1494745239
+    經濟頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv092/master.m3u8?token=CJ2ysD4zj45K9d0nmuQ9jQ&expires=1494745239
+    財政頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv093/master.m3u8?token=3IBhXscRb6zpTt3jA0wQ6Q&expires=1494745241
+    教育及文化頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv094/master.m3u8?token=8EniuoJPlau9Vu8-mUSNaQ&expires=1494745249
+    交通頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv095/master.m3u8?token=_Op8-yVd9797KsGnBjMt8w&expires=1494745251
+    司法及法制頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv096/master.m3u8?token=eBQSE-mqG73588Alx61Vhg&expires=1494745253
+    社會福利及衛生環境頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv097/master.m3u8?token=XYO8FJNGIxDuIVylx_xzOg&expires=1494745268
+    智林體育台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv101/master.m3u8?token=VwU4J4ZSYkDR2TRPHKNySg&expires=1494745255
+    空中英語教室HD頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv103/master.m3u8?token=KaYZ7FfeLu2N9fCVuTdOsw&expires=1494745255
+    大愛二台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv106/master.m3u8?token=r5ADJqm_nEs0AhaLOPY2_A&expires=1494745271
+    公視二台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv107/master.m3u8?token=O0lOyPcy5z1_io7OoNy2Ew&expires=1494745271
+    VTV4,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv108/master.m3u8?token=lleq8jec6emXZ6q6CKkZdQ&expires=1494745259
+    MOMO親子台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv111/master.m3u8?token=gaT9ZT3XP-AUho79_naBWQ&expires=1494745273
+    天映經典頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv112/master.m3u8?token=D-LnjUfzXyNwe0yRwrEU1Q&expires=1494745274
+    VOA美國之音,http://mozai.4gtv.tv/m3u8/embed/litv-ftv03/master.m3u8?token=zEmL3VuEtT7mjk8gXQ0PrA&expires=1494745261
+    民視旅遊台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv07/master.m3u8?token=ak0iwBIvmwZVA8z9zYuo5Q&expires=1494745262
+    民視影劇台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv09/master.m3u8?token=uzweZDOYxlXt2UKqnnv7aQ&expires=1494745276
+    半島國際新聞台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv10/master.m3u8?token=bNZkKZiNzIhpi1fkZxzIRQ&expires=1494745263
+    華研音樂台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv11/master.m3u8?token=hYatDCEw4vSs6zvrEfeRGg&expires=1494745278
+    華研娛樂台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv12/master.m3u8?token=wO_0tRVB22AjlNRJjnmQmA&expires=1494745279
+    民視新聞台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv13/master.m3u8?token=JoZg4Y4TMtuaiV1npfoEZw&expires=1494745281
+    東森新聞台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv14/master.m3u8?token=uzUoDv6YOiQYXWrOJCliXA&expires=1494745267
+    i-Fun動漫台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv15/master.m3u8?token=srEakzXWOJhJN1Fe7uRgsw&expires=1494745268
+    好消息,http://mozai.4gtv.tv/m3u8/embed/litv-ftv16/master.m3u8?token=9V0Ex5DlxAtCPG9Q1AX7mA&expires=1494745282
+    好消息2台,http://mozai.4gtv.tv/m3u8/embed/litv-ftv17/master.m3u8?token=_jNaUpUwrXo4-mlUXdx5jg&expires=1494745283
+    龍華卡通台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn01/master.m3u8?token=jMm7cUbN1z9D1H0rNhgSZw&expires=1494745283
+    博斯魅力台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn04/master.m3u8?token=x9y4TcPm99p9yppFSR2Ovg&expires=1494745270
+    博斯高球台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn05/master.m3u8?token=2-247ltQZbvIIguIZAPOJQ&expires=1494745284
+    博斯高球二台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn06/master.m3u8?token=rNChZJx6TgkhpRFRC3Vgrg&expires=1494745271
+    博斯運動網,http://mozai.4gtv.tv/m3u8/embed/litv-longturn07/master.m3u8?token=mI0v0sw-0W8ppfP48UZfNw&expires=1494745272
+    博斯足球台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn08/master.m3u8?token=xP-buRwy3zZvNhU7vKUgOQ&expires=1494745287
+    博斯網球台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn09/master.m3u8?token=T5XQ_6eukF0vLR_5OTCA8g&expires=1494745287
+    博斯無限台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn10/master.m3u8?token=XOVZ4QPZCOPCuq9uqhQRVQ&expires=1494745288
+    龍華日韓劇台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn11/master.m3u8?token=vgeCnBKoZPdR2uCktuYBKQ&expires=1494745288
+    龍華日韓台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn11/master.m3u8?token=BPP6cK7TSf9eVfLRaMKE_w&expires=1494745275
+    龍華偶像劇台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn12/master.m3u8?token=gPBhZrLFphRyEONmV1eP5g&expires=1494745289
+    龍華偶像台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn12/master.m3u8?token=Kk4Y5QcCvZy2beJFu7Q6yg&expires=1494745290
+    寰宇新聞台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn14/master.m3u8?token=YB0HRZsJrAUbetfrpyEgnA&expires=1494745276
+    寰宇新聞二台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn15/master.m3u8?token=qViDSaCgYJTPgrRfW9iTUg&expires=1494745291
+    亞洲旅遊台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn17/master.m3u8?token=rUuHtbIZsM5-4FA8QkYxuA&expires=1494745291
+    龍華戲劇台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn18/master.m3u8?token=uUQjy_A5dw7dGl70Nv74JA&expires=1494745278
+    ELTV英語學習台,http://mozai.4gtv.tv/m3u8/embed/litv-longturn20/master.m3u8?token=II6fOE_-pgBPn0Ti6qElmw&expi
