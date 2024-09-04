@@ -1,5 +1,33 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
+~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/c/24OnLive/live
+凤凰资讯 | 港澳台 | https://epg.112114.xyz/logo/凤凰资讯.png |
+https://www.youtube.com/watch?v=HFib76ySpbU
+寰宇新闻 | 港澳台 | https://epg.112114.xyz/logo/寰宇新闻.png |
+https://www.youtube.com/watch?v=6IquAgfvYmc
+TVBS | 港澳台 | https://epg.112114.xyz/logo/tvbs.png |
+https://www.youtube.com/watch?v=m_dhMSvUCIc&pp=ygUM5Y-w5rm-55u05pKt
+台视新闻 | 港澳台 | https://epg.112114.xyz/logo/台视新闻.png |
+https://www.youtube.com/watch?v=xL0ch83RAK8&pp=ygUM5Y-w5rm-55u05pKt
+东森新闻 | 港澳台 | https://epg.112114.xyz/logo/东森新闻.png |
+https://www.youtube.com/watch?v=LuQ4S-i5zoE
+中天新闻 | 港澳台 | https://epg.112114.xyz/logo/中天新闻.png |
+https://www.youtube.com/watch?v=oIgbl7t0S_w&pp=ygUM5Y-w5rm-55u05pKt
+中视新闻 | 港澳台 | https://epg.112114.xyz/logo/中视新闻.png |
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+民视新闻 | 港澳台 | https://epg.112114.xyz/logo/民视新闻.png |
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+公视新闻 | 港澳台 | https://epg.112114.xyz/logo/公视新闻.png |
+https://www.youtube.com/watch?v=quwqlazU-c8
+镜新闻 | 港澳台 | https://epg.112114.xyz/logo/镜新闻.png |
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+東森財經 | 港澳台 | |
+https://www.youtube.com/user/57ETFN/live
+三立新闻 | 港澳台 | https://epg.112114.xyz/logo/三立新闻.png |
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立iNEWS | 港澳台 | |
+https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live
+新唐人亞太台 | 港澳台 | |
+https://www.youtube.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ/live
+youyou tv | 港澳台 | |
+https://www.youtube.com/watch?v=YOOQXWYym5g
