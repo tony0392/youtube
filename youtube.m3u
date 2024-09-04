@@ -7,9 +7,51 @@
 #     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
 #     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
 #                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
+#                                  >> https://github.com/tony0392       #
 #########################################################################
 
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="", 凤凰资讯
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" tvg-id="", 寰宇新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/tvbs.png" tvg-id="", TVBS
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" tvg-id="", 台视新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" tvg-id="", 东森新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" tvg-id="", 中天新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" tvg-id="", 中视新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" tvg-id="", 民视新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/公视新闻.png" tvg-id="", 公视新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" tvg-id="", 镜新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="", 東森財經
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/三立新闻.png" tvg-id="", 三立新闻
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="", 三立iNEWS
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="", 新唐人亞太台
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="", youyou tv
+https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
