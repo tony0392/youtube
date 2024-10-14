@@ -207,163 +207,170 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226347/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8
 #EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="生活", 纪实人文
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226355/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="ChiSheng9", ,凤凰资讯
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="ChiSheng9", ,寰宇新闻
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="" tvg-logo="" group-title="ChiSheng9",SET INEWS
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="ChiSheng9",中视新闻
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="ChiSheng9",华视
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="" tvg-logo="" group-title="ChiSheng9",中天亚洲台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="ChiSheng9",民视新闻台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="ChiSheng9",TVBS
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="" tvg-logo="" group-title="ChiSheng9",新唐人亚太台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="ChiSheng9",台视新闻台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="ChiSheng9",华视HD
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="121" tvg-name="" tvg-logo="" group-title="ChiSheng9",中天新闻
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="三立" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="ChiSheng9",三立
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="ChiSheng9",中视
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="" tvg-logo="" group-title="ChiSheng9",镜新闻
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="ChiSheng9",中视
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="ChiSheng9",东森财经新闻台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="" tvg-logo="" group-title="ChiSheng9",中天新闻
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="ChiSheng9",大爱1
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="ChiSheng9",大爱2
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="" tvg-logo="" group-title="ChiSheng9",国会频道1
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="" tvg-logo="" group-title="ChiSheng9",国会频道2
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="" tvg-logo="" group-title="ChiSheng9",台湾
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="" tvg-logo="" group-title="ChiSheng9",台湾
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="" tvg-logo="" group-title="ChiSheng9",居家
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="" tvg-logo="" group-title="ChiSheng9",台湾
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="" tvg-logo="" group-title="ChiSheng9",台湾
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-#EXTINF:-1 tvg-id="137" tvg-name="凤凰秀" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="ChiSheng9",凤凰秀
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="" tvg-logo="" group-title="ChiSheng9",EF运通
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="" tvg-logo="" group-title="ChiSheng9",信大
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 tvg-id="140" tvg-name="" tvg-logo="" group-title="ChiSheng9",T8S
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="" tvg-logo="" group-title="ChiSheng9",未知
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="ChiSheng9",MOMO1
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="ChiSheng9",MOMO2
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="" tvg-logo="" group-title="ChiSheng9",东森购物3台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="" tvg-logo="" group-title="ChiSheng9",东森购物2台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="" tvg-logo="" group-title="ChiSheng9",美好购物1台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-#EXTINF:-1 tvg-id="147" tvg-name="" tvg-logo="" group-title="ChiSheng9",美好购物2台
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="ChiSheng9",DW
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="ChiSheng9",ABCAustralia
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="150" tvg-name="" tvg-logo="" group-title="ChiSheng9",India Today
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-id="151" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="ChiSheng9",france24
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="152" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="ChiSheng9",CNBCHongKong
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="ChiSheng9",BloombergTV
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-#EXTINF:-1 tvg-id="154" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="ChiSheng9",ChannelNewsAsia
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 tvg-id="155" tvg-name="" tvg-logo="" group-title="ChiSheng9",HTB北海道ニュース
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="ChiSheng9",123GO
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-#EXTINF:-1 tvg-id="157" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="ChiSheng9",aljazeera
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 tvg-id="158" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="ChiSheng9",ArirangTV
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-#EXTINF:-1 tvg-id="159" tvg-name="" tvg-logo="" group-title="ChiSheng9",东京浅草
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-#EXTINF:-1 tvg-id="160" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 tvg-id="161" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 tvg-id="162" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 tvg-id="163" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 tvg-id="164" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 tvg-id="166" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-#EXTINF:-1 tvg-id="167" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-#EXTINF:-1 tvg-id="168" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 tvg-id="168" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 tvg-id="169" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-#EXTINF:-1 tvg-id="170" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-#EXTINF:-1 tvg-id="171" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-#EXTINF:-1 tvg-id="172" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-#EXTINF:-1 tvg-id="173" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 tvg-id="174" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-#EXTINF:-1 tvg-id="175" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
-#EXTINF:-1 tvg-id="176" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
-#EXTINF:-1 tvg-id="177" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-#EXTINF:-1 tvg-id="178" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-#EXTINF:-1 tvg-id="179" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-id="180" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV909.m3u8
-#EXTINF:-1 tvg-id="181" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV910.m3u8
-#EXTINF:-1 tvg-id="182" tvg-name="" tvg-logo="" group-title="ChiSheng9",set
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV911.m3u8
-#EXTINF:-1 tvg-id="187" tvg-name="" tvg-logo="" group-title="ChiSheng9",动画片1
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 tvg-id="188" tvg-name="" tvg-logo="" group-title="ChiSheng9",动画片2
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-id="189" tvg-name="" tvg-logo="" group-title="ChiSheng9",动画片3
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-id="190" tvg-name="" tvg-logo="" group-title="ChiSheng9",动画片4
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 tvg-id="191" tvg-name="" tvg-logo="" group-title="ChiSheng9",动画片5
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 tvg-id="192" tvg-name="" tvg-logo="" group-title="ChiSheng9",动画片6
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.v1.mk/logo/三立iNEWS.png" group-title="港澳台",三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="港澳台",寰宇新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1,tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://epg.v1.mk/logo/东森财经新闻.png" group-title="港澳台",東森財經新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1,tvg-id="CIBN风尚运动" tvg-name="CIBN风尚运动" tvg-logo="https://epg.v1.mk/logo/CIBN风尚运动.png" group-title="港澳台",運通財經台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1,tvg-id="信大HD" tvg-name="信大HD" tvg-logo="https://epg.v1.mk/logo/信大HD.png" group-title="港澳台",信大電視台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1,tvg-id="ANIMALPLANETHDWORLD" tvg-name="ANIMALPLANETHDWORLD" tvg-logo="https://epg.v1.mk/logo/ANIMALPLANETHDWORLD.png" group-title="港澳台",DW News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="港澳台",中視新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1,tvg-id="ANIMALPLANETHDWORLD" tvg-name="ANIMALPLANETHDWORLD" tvg-logo="https://epg.v1.mk/logo/ANIMALPLANETHDWORLD.png" group-title="港澳台",Malaimurasu Tv 24X7
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+#EXTINF:-1,tvg-id="ASIANET-NEWS" tvg-name="ASIANET-NEWS" tvg-logo="https://epg.v1.mk/logo/ASIANET-NEWS.png" group-title="港澳台",Asianet News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",華視戲劇頻道
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.v1.mk/logo/中天亚洲台.png" group-title="港澳台",中天亞洲台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+#EXTINF:-1,tvg-id="ALJAZEERAENGLISH" tvg-name="ALJAZEERAENGLISH" tvg-logo="https://epg.v1.mk/logo/ALJAZEERAENGLISH.png" group-title="港澳台",Al Jazeera Arabic
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+#EXTINF:-1,tvg-id="japanews24" tvg-name="japanews24" tvg-logo="https://epg.v1.mk/logo/japanews24.png" group-title="港澳台",JapaNews24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1,tvg-id="THEKPOP" tvg-name="THEKPOP" tvg-logo="https://epg.v1.mk/logo/THEKPOP.png" group-title="港澳台",THE K-POP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.v1.mk/logo/民视新闻.png" group-title="港澳台",民視新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1,tvg-id="FOXLIVENOW" tvg-name="FOXLIVENOW" tvg-logo="https://epg.v1.mk/logo/FOXLIVENOW.png" group-title="港澳台",LIVE NOW
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1,tvg-id="HABER-TURK" tvg-name="HABER-TURK" tvg-logo="https://epg.v1.mk/logo/HABER-TURK.png" group-title="港澳台",Haberturk TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="港澳台",鳳凰衛視資訊台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="港澳台",新唐人LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1,tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://epg.v1.mk/logo/ABCNEWS.png" group-title="港澳台",ABC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.v1.mk/logo/台视新闻台.png" group-title="港澳台",台視新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",華視綜藝頻道
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1,tvg-id="ASTROAWANI" tvg-name="ASTROAWANI" tvg-logo="https://epg.v1.mk/logo/ASTROAWANI.png" group-title="港澳台",Astro AWANI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1,tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://epg.v1.mk/logo/中天亚洲.png" group-title="港澳台",中天電視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1,tvg-id="ASTROTUTORTVPT3" tvg-name="ASTROTUTORTVPT3" tvg-logo="https://epg.v1.mk/logo/ASTROTUTORTVPT3.png" group-title="港澳台",Tokyo Walk
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+#EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.v1.mk/logo/大爱一台.png" group-title="港澳台",大愛一臺HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1,tvg-id="Tvbsnews" tvg-name="Tvbsnews" tvg-logo="https://epg.v1.mk/logo/Tvbsnews.png" group-title="港澳台",TVBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.v1.mk/logo/三立新闻台.png" group-title="港澳台",三立新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="港澳台",GB News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1,tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://epg.v1.mk/logo/中视经典.png" group-title="港澳台",中視經典綜藝
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.v1.mk/logo/SKYNEWS.png" group-title="港澳台",Sky News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1,tvg-id="INDIA BEAT" tvg-name="INDIA BEAT" tvg-logo="https://epg.v1.mk/logo/INDIA BEAT.png" group-title="港澳台",India Today
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.v1.mk/logo/EURONEWS.png" group-title="港澳台",Euronews English
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1,tvg-id="FRANCE24(English)" tvg-name="FRANCE24(English)" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png" group-title="港澳台",FRANCE 24 English
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1,tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://epg.v1.mk/logo/NBCNEWS.png" group-title="港澳台",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1,tvg-id="ABCNEWSLIVE" tvg-name="ABCNEWSLIVE" tvg-logo="https://epg.v1.mk/logo/ABCNEWSLIVE.png" group-title="港澳台",News18 India
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾台.png" group-title="港澳台",寰宇新聞台灣台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1,tvg-id="SMITHSONIANCHANNEL" tvg-name="SMITHSONIANCHANNEL" tvg-logo="https://epg.v1.mk/logo/SMITHSONIANCHANNEL.png" group-title="港澳台",MIT台灣誌
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="港澳台",鳳凰衛視資訊台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="港澳台",MediaoneTV Live
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1,tvg-id="tbsnews" tvg-name="tbsnews" tvg-logo="https://epg.v1.mk/logo/tbsnews.png" group-title="港澳台",TBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1,tvg-id="GMANEWSTVINTERNATIONAL" tvg-name="GMANEWSTVINTERNATIONAL" tvg-logo="https://epg.v1.mk/logo/GMANEWSTVINTERNATIONAL.png" group-title="港澳台",NewsTamil24x7
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+#EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.v1.mk/logo/大爱二台.png" group-title="港澳台",大愛二臺HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1,tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://epg.v1.mk/logo/中天亚洲.png" group-title="港澳台",中天2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1,tvg-id="ANIMALPLANETHDWORLD" tvg-name="ANIMALPLANETHDWORLD" tvg-logo="https://epg.v1.mk/logo/ANIMALPLANETHDWORLD.png" group-title="港澳台",Malayalam News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.v1.mk/logo/ARIRANGTV.png" group-title="港澳台",Arirang TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+#EXTINF:-1,tvg-id="CNA938" tvg-name="CNA938" tvg-logo="https://epg.v1.mk/logo/CNA938.png" group-title="港澳台",CNA LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1,tvg-id="AHTV" tvg-name="AHTV" tvg-logo="https://epg.v1.mk/logo/AHTV.png" group-title="港澳台",HTB北海道ニュース
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1,tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://epg.v1.mk/logo/国会频道1.png" group-title="港澳台",國會頻道１
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1,tvg-id="013三立綜合台" tvg-name="013三立綜合台" tvg-logo="https://epg.v1.mk/logo/013三立綜合台.png" group-title="港澳台",立法院會議
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1,tvg-id="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-name="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-logo="https://epg.v1.mk/logo/64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7.png" group-title="港澳台",123 GO! Live
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1,tvg-id="ALJAZEERAENGLISH" tvg-name="ALJAZEERAENGLISH" tvg-logo="https://epg.v1.mk/logo/ALJAZEERAENGLISH.png" group-title="港澳台",Al Jazeera English
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+#EXTINF:-1,tvg-id="CMUSIC" tvg-name="CMUSIC" tvg-logo="https://epg.v1.mk/logo/CMUSIC.png" group-title="港澳台",Muse木棉花-闔家歡
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+#EXTINF:-1,tvg-id="KBSNEWS" tvg-name="KBSNEWS" tvg-logo="https://epg.v1.mk/logo/KBSNEWS.png" group-title="港澳台",KBS News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+#EXTINF:-1,tvg-id="ABC111" tvg-name="ABC111" tvg-logo="https://epg.v1.mk/logo/ABC111.png" group-title="港澳台",ABCテレビニュース
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+#EXTINF:-1,tvg-id="BOLLYONE" tvg-name="BOLLYONE" tvg-logo="https://epg.v1.mk/logo/BOLLYONE.png" group-title="港澳台",YOYO TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1,tvg-id="小猪佩奇" tvg-name="小猪佩奇" tvg-logo="https://epg.v1.mk/logo/小猪佩奇.png" group-title="港澳台",小猪佩奇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+#EXTINF:-1,tvg-id="TALKTV" tvg-name="TALKTV" tvg-logo="https://epg.v1.mk/logo/TALKTV.png" group-title="港澳台",Talking Tom
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1,tvg-id="TALKTV" tvg-name="TALKTV" tvg-logo="https://epg.v1.mk/logo/TALKTV.png" group-title="港澳台",TalkingFriendsTVMini
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1,tvg-id="DAVE" tvg-name="DAVE" tvg-logo="https://epg.v1.mk/logo/DAVE.png" group-title="港澳台",Dave 和 Ava
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1,tvg-id="1562605316-REDIS-DATA-TYPES" tvg-name="1562605316-REDIS-DATA-TYPES" tvg-logo="https://epg.v1.mk/logo/1562605316-REDIS-DATA-TYPES.png" group-title="港澳台",Tayo the Little Bus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1,tvg-id="DISNEYJUNIOR" tvg-name="DISNEYJUNIOR" tvg-logo="https://epg.v1.mk/logo/DISNEYJUNIOR.png" group-title="港澳台",Disney Junio
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.v1.mk/logo/镜新闻.png" group-title="港澳台",鏡新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="港澳台",大陸尋奇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="港澳台",CRUX
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+#EXTINF:-1,tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.v1.mk/logo/猪哥亮歌厅秀.png" group-title="港澳台",豬哥會社
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+#EXTINF:-1,tvg-id="TIMESRADIO" tvg-name="TIMESRADIO" tvg-logo="https://epg.v1.mk/logo/TIMESRADIO.png" group-title="港澳台",TIMES NOW
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.v1.mk/logo/ARIRANGTV.png" group-title="港澳台",GTV DRAMA 八大劇樂部
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民視戲劇館
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="港澳台",Lofi Girl
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+#EXTINF:-1,tvg-id="taiwanplus" tvg-name="taiwanplus" tvg-logo="https://epg.v1.mk/logo/taiwanplus.png" group-title="港澳台",TaiwanPlus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.v1.mk/logo/BBCEARTH.png" group-title="港澳台",earthTV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+#EXTINF:-1,tvg-id="SBSBIZ" tvg-name="SBSBIZ" tvg-logo="https://epg.v1.mk/logo/SBSBIZ.png" group-title="港澳台",SBS Running Man
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="港澳台",飢餓遊戲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+#EXTINF:-1,tvg-id="Tvbsnews" tvg-name="Tvbsnews" tvg-logo="https://epg.v1.mk/logo/Tvbsnews.png" group-title="港澳台",TVBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS選新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+#EXTINF:-1,tvg-id="BLUEANTENTERTAINMENT" tvg-name="BLUEANTENTERTAINMENT" tvg-logo="https://epg.v1.mk/logo/BLUEANTENTERTAINMENT.png" group-title="港澳台",Entertainment - Mediacorp
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.v1.mk/logo/寰宇新闻.png" group-title="港澳台",寰宇新聞財經台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+#EXTINF:-1,tvg-id="FOXLIVENOW" tvg-name="FOXLIVENOW" tvg-logo="https://epg.v1.mk/logo/FOXLIVENOW.png" group-title="港澳台",LiveNOW from FOX
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+#EXTINF:-1,tvg-id="东森购物1" tvg-name="东森购物1" tvg-logo="https://epg.v1.mk/logo/东森购物1.png" group-title="港澳台",東森購物台CH34
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="港澳台",InquizeX
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
+#EXTINF:-1,tvg-id="093471812276a5697e0cf3504c3ce9ea" tvg-name="093471812276a5697e0cf3504c3ce9ea" tvg-logo="https://epg.v1.mk/logo/093471812276a5697e0cf3504c3ce9ea.png" group-title="港澳台",8world
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="港澳台",倪珍24小時播新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
