@@ -63,6 +63,37 @@ CCTV5+,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/
 中国教育4台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
 
 地方频道,#genre#
+
+凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰香港,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
+凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
+凤凰香港,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8
+凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
+
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227268/index.m3u8
@@ -299,147 +330,96 @@ JJ斗地主赛事,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000
 摄影频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
 车迷频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226666/index.m3u8
 
-4GTV,#genre#
- 民視,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv002
- 民視第一台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv003
- 民視新聞台,http://zhuote3d.com.cn:5050/litv/litv-ftv13
- 民視台灣台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv001
- 民視影劇台,http://zhuote3d.com.cn:5050/litv/litv-ftv09
- 民視旅遊台,http://zhuote3d.com.cn:5050/litv/litv-ftv07
- 民視綜藝台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv004
- 中視,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv040
- 中視新聞台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv074
- 中視經典台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv080
- 中視菁采台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv064
- 中天新聞台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv009
- 中天亞洲台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv109
- 華視,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv041
- 華視新聞,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv052
- 靖天綜合台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv046
- 靖天國際台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv063
- 靖天戲劇台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv058
- 靖天日本台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv047
- 靖天映畫台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv055
- 靖天卡通台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv044
- 靖天育樂台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv062
- 靖天資訊台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv065
- 靖天電影台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv061
- 靖天歡樂台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv054
- 龍華偶像台,http://zhuote3d.com.cn:5050/litv/litv-longturn12
- 龍華卡通台,http://zhuote3d.com.cn:5050/litv/litv-longturn01
- 龍華戲劇台,http://zhuote3d.com.cn:5050/litv/litv-longturn18
- 龍華日韓台,http://zhuote3d.com.cn:5050/litv/litv-longturn11
- 龍華經典台,http://zhuote3d.com.cn:5050/litv/litv-longturn21
- 龍華電影台,http://zhuote3d.com.cn:5050/litv/litv-longturn03
- 靖洋戲劇台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv045
- 靖洋卡通 Nice Bingo,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv057
- 寰宇新聞台,http://zhuote3d.com.cn:5050/litv/litv-longturn14
- 寰宇新聞台灣台,http://zhuote3d.com.cn:5050/litv/litv-longturn15
- 寰宇財經台,http://zhuote3d.com.cn:5050/litv/litv-longturn23
- TVBS,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv073
- TVBS 新聞台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv072
- TVBS 綜藝台,http://zhuote3d.com.cn:5050/4gtv/284
- TVBS 歡樂台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv068
- TVBS 精采台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv067
- TVBS 台劇台,http://zhuote3d.com.cn:5050/4gtv/285
- 八大精彩台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv034
- 八大綜藝台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv039
- 三立綜合台,http://zhuote3d.com.cn:5050/4gtv/169
- 三立 iNEWS,http://zhuote3d.com.cn:5050/4gtv/229
- 台視,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv066
- 台視新聞台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv051
- 台視財經台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv056
- 博斯運動一台,http://zhuote3d.com.cn:5050/litv/litv-longturn07
- 博斯運動二台,http://zhuote3d.com.cn:5050/litv/litv-longturn08
- 博斯無限台,http://zhuote3d.com.cn:5050/litv/litv-longturn10
- 博斯無限二台,http://zhuote3d.com.cn:5050/litv/litv-longturn13
- 博斯網球台,http://zhuote3d.com.cn:5050/litv/litv-longturn09
- 博斯高球台,http://zhuote3d.com.cn:5050/litv/litv-longturn05
- 博斯高球二台,http://zhuote3d.com.cn:5050/litv/litv-longturn06
- 博斯魅力台,http://zhuote3d.com.cn:5050/litv/litv-longturn04
- ELTA 娛樂台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv070
- ELTA 生活旅遊,http://zhuote3d.com.cn:5050/4gtv/237
- ELTV 生活英語,http://zhuote3d.com.cn:5050/litv/litv-longturn20
- 東森新聞,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv152
- 東森財經新聞,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv153
- 非凡新聞台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv010
- 非凡商業台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv048
- 鏡電視新聞台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv075
- CNBC Asia 財經台,http://zhuote3d.com.cn:5050/4gtv/235
- 亞洲旅遊台,http://zhuote3d.com.cn:5050/litv/litv-longturn17
- GINX Esports TV,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv053
- TechStorm,http://zhuote3d.com.cn:5050/4gtv/181
- 時尚運動X,http://zhuote3d.com.cn:5050/4gtv/277
- 智林體育台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv101
- TraceSports,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv077
- 影迷數位紀實台,http://zhuote3d.com.cn:5050/4gtv/212
- 影迷數位電影台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv011
- AMC 電影台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv017
- CatchPlay 電影台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv076
- My Cinema Europe HD 我的歐洲電影,http://zhuote3d.com.cn:5050/4gtv/176
- 公視戲劇台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv042
- 采昌影劇台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv049
- 台灣戲劇台,http://zhuote3d.com.cn:5050/litv/litv-longturn22
- 戲劇免費看 1台,http://zhuote3d.com.cn:5050/4gtv/270
- 戲劇免費看 2台,http://zhuote3d.com.cn:5050/4gtv/244
- 經典電影台,http://zhuote3d.com.cn:5050/4gtv/201
- 電影免費看 2台,http://zhuote3d.com.cn:5050/4gtv/245
- 電影原聲台 CMusic,http://zhuote3d.com.cn:5050/4gtv/218
- 花系列 經典劇場,http://zhuote3d.com.cn:5050/4gtv/279
- CinemaWorld,http://zhuote3d.com.cn:5050/4gtv/225
- HITS 頻道,http://zhuote3d.com.cn:5050/4gtv/186
- Rock Action,http://zhuote3d.com.cn:5050/4gtv/180
- Rock Entertainment,http://zhuote3d.com.cn:5050/4gtv/275
- 金光布袋戲,http://zhuote3d.com.cn:5050/4gtv/236
- 霹靂布袋戲,http://zhuote3d.com.cn:5050/4gtv/301
- DreamWorks 夢工廠動畫,http://zhuote3d.com.cn:5050/4gtv/282
- Nickelodeon,http://zhuote3d.com.cn:5050/4gtv/185
- Nick Jr. 兒童頻道,http://zhuote3d.com.cn:5050/4gtv/219
- i-Fun 動漫台,http://zhuote3d.com.cn:5050/litv/litv-ftv15
- 兒童卡通台,http://zhuote3d.com.cn:5050/4gtv/269
- 精選動漫台,http://zhuote3d.com.cn:5050/4gtv/204
- 經典卡通台,http://zhuote3d.com.cn:5050/4gtv/202
- 達文西頻道,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv018
- 超人力霸王整套看,http://zhuote3d.com.cn:5050/4gtv/278
- MOMO 親子台,http://zhuote3d.com.cn:5050/4gtv/231
- LiveABC 互動英語台,http://zhuote3d.com.cn:5050/4gtv/188
- Classica 古典樂,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv059
- Lifetime 娛樂頻道,http://zhuote3d.com.cn:5050/4gtv/217
- MTV Live HD 音樂頻道,http://zhuote3d.com.cn:5050/4gtv/213
- Mezzo Live,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv083
- 豬哥亮歌廳秀,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv006
- Trace Urban,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv082
- Global Trekker,http://zhuote3d.com.cn:5050/4gtv/252
- 韓國娛樂台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv016
- LUXE TV,http://zhuote3d.com.cn:5050/4gtv/175
- Pet Club TV,http://zhuote3d.com.cn:5050/4gtv/182
- TV5MONDE Style,http://zhuote3d.com.cn:5050/4gtv/178
- 車迷 TV,http://zhuote3d.com.cn:5050/4gtv/160
- Love Nature,http://zhuote3d.com.cn:5050/4gtv/139
- Fun 探索娛樂台,http://zhuote3d.com.cn:5050/4gtv/274
- 幸福空間居家台,http://zhuote3d.com.cn:5050/4gtv/168
- Arirang TV,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv079
- Bloomberg TV,http://zhuote3d.com.cn:5050/4gtv/283
- VOA 美國之音,http://zhuote3d.com.cn:5050/litv/litv-ftv03
- DW德國之聲,http://zhuote3d.com.cn:5050/4gtv/226
- SBN 全球財經台,http://zhuote3d.com.cn:5050/4gtv/224
- 半島國際新聞台,http://zhuote3d.com.cn:5050/litv/litv-ftv10
- 第1商業台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv104
- History 歷史頻道,http://zhuote3d.com.cn:5050/4gtv/214
- CI 罪案偵查頻道,http://zhuote3d.com.cn:5050/4gtv/215
- Smart 知識台,http://zhuote3d.com.cn:5050/litv/litv-longturn19
- 視納華仁紀實頻道,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv013
- 原住民族電視台,http://zhuote3d.com.cn:5050/4gtv/273
- 客家電視台,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv043
- 滾動力 Rollor,http://zhuote3d.com.cn:5050/4gtv/249
- 好消息,http://zhuote3d.com.cn:5050/litv/litv-ftv16
- 好消息2台,http://zhuote3d.com.cn:5050/litv/litv-ftv17
- 大愛電視,http://zhuote3d.com.cn:5050/4gtv/209
- 大愛電視2,http://zhuote3d.com.cn:5050/4gtv/230
- 人間衛視,http://zhuote3d.com.cn:5050/4gtv/210
- 國會頻道1,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv084
- 國會頻道2,http://zhuote3d.com.cn:5050/litv/4gtv-4gtv085
- 東森購物一台,http://zhuote3d.com.cn:5050/4gtv/173
- 東森購物二台,http://zhuote3d.com.cn:5050/4gtv/174
- 東森購物三台,http://zhuote3d.com.cn:5050/4gtv/287
- 東森購物四台,http://zhuote3d.com.cn:5050/4gtv/286
+CISHENG频道,#genre#
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+Malaimurasu Tv 24X7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+Asianet News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+華視戲劇頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+Al Jazeera Arabic,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+JapaNews24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+東森購物台CH60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物台CH46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+LIVE NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+Haberturk TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+華視綜藝頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+Astro AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+中天電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+Tokyo Walk,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+大愛一臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+GB News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+中視經典綜藝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+Sky News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+India Today,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+Euronews English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+FRANCE 24 English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+News18 India,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+MediaoneTV Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+NewsTamil24x7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+大愛二臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+東森購物台CH47,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+中天2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+Malayalam News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+CNA LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+國會頻道１,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+立法院會議,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+123 GO! Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+Al Jazeera English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+Muse木棉花-闔家歡,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+KBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+ABCテレビニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+小猪佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+Talking Tom,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+TalkingFriendsTVMini,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+Dave and Ava,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+Tayo the Little Bus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+Disney Junio,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+CRUX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+TIMES NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+GTV DRAMA 八大劇樂部,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+民視戲劇館,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+Lofi Girl,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+earthTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+SBS Running Man,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS選新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+Entertainment - Mediacorp,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
+寰宇新聞財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+LiveNOW from FOX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+東森購物台CH34,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
+InquizeX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
+8world,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
+倪珍24小時播新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV93,華視新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV94,華視公眾安全資訊觀測站
