@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/公视新闻.png" tvg-id="", 公视新闻
-https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762270955/ei/i8oJaeyCN9-LmLQP9fnmyAY/ip/52.176.37.72/id/quwqlazU-c8.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RKD_Dyh_E1ucy-LOeoVNHBUF2F1Qw0wUevoGyCGM43AGbLwhcFL8cDtd78_JGy37UKCOs0qdOf/spc/6b0G_B5M-uTzQ0N3WvYVh_t0WAGXt7LSaj1k3f9EAdtYQBps_GurCAM2uGsNdi8rkD4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMzP0SZZxN4cgfJcMezclageQrRnv-GtBOU84NavzVyeAiBC2OBRIdGxq7lDoMUC4v7KxMGnn2vpyaK1i37pe7RBbg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" tvg-id="", 镜新闻
 https://raw.githubusercontent.com/tony0392/YouTube/main/assets/moose_na.m3u
